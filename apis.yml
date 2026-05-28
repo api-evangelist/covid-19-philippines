@@ -1,0 +1,32 @@
+aid: covid-19-philippines
+name: Covid-19 Philippines
+description: "Unofficial Covid-19 Web API for Philippines from data collected by DOH"
+url: https://github.com/Simperfy/Covid-19-API-Philippines-DOH
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Health"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Health
+  - Public APIs
+apis:
+  - name: Covid-19 Philippines
+    description: "Unofficial Covid-19 Web API for Philippines from data collected by DOH"
+    humanURL: https://github.com/Simperfy/Covid-19-API-Philippines-DOH
+    baseURL: https://github.com/Simperfy/Covid-19-API-Philippines-DOH
+    tags:
+      - Health
+    properties:
+      - type: Documentation
+        url: https://github.com/Simperfy/Covid-19-API-Philippines-DOH
+common:
+  - type: Website
+    url: https://github.com/Simperfy/Covid-19-API-Philippines-DOH
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
