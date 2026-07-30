@@ -1,4 +1,16 @@
 aid: covid-19-philippines
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/covid-19-philippines.png
 name: Covid-19 Philippines
 description: "Unofficial Covid-19 Web API for Philippines from data collected by DOH"
 url: https://github.com/Simperfy/Covid-19-API-Philippines-DOH
