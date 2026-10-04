@@ -39,7 +39,6 @@ apis:
   - name: Covid-19 Philippines
     description: "Unofficial Covid-19 Web API for Philippines from data collected by DOH"
     humanURL: https://github.com/Simperfy/Covid-19-API-Philippines-DOH
-    baseURL: https://github.com/Simperfy/Covid-19-API-Philippines-DOH
     tags:
       - Health
     properties:
